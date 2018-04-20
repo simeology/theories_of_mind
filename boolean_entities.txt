@@ -1,0 +1,93 @@
+human is a virtualized boolean entity in a simulation
+    it is capable of boolean logic
+        but is incapable of simulating to generate the illusion to itself of framerate (ie, it's observation and boolean logic runs at 10hz, it cannot execute an artificial simulation to 10hz, [and potentially fool itself into thinking that it exists in its artificial simulation])
+
+    to a human it appears that it is an observer of the universe because 
+        he can 
+            design,create,initialize a simulation (ie thought)
+                technically he could execute his designed simulation but at the moment very slowly
+                    computation augmentation will allow a boolean machine to design and execute a simulation
+            observe parts of it
+                
+
+            the human is fooled into thinking that he is an observer of the universe because he is a virtualized boolean entity
+                virtualized free will
+                    virtualized boolean determination
+                        and subsequent action
+                        gives the illusion of free will
+                in reality he is not (*may not be) an observer of the actual universe
+                a real observer of the universe would observe the following objects
+                    the set of subjective experiences (virtualized boolean computations)
+                        an instance of subjective experience (virtualized boolean entity) is comprised of the following:
+                            a running virtualized boolean computation
+                                ie, a conciousness operating against input and output
+                                    access to input and output in the form of memory
+                                        stored in the brain tissue
+                                    the electric conciousness is running independent of access to tissue memory
+                                        the boolean machine doesn't have memory, it accesses the localized memory in brain tissue
+                                            * in reality it is likely the human brain is too interconnected to seperate memory and execution
+                                            this is apparent with regards to:
+                                                short term memory size
+                                                limitations of memory withdrawal
+                            the location of these instances is directly located in the tissues of humans
+                                ie a true observer views the subjective experience (virtualized boolean compuation) of a human as an object, that is located in space in the tissue of the human
+                                    and can execute the tissue, at will to generate an identical or sufficient framerate
+                    whether a real observer to the universe exists is indeterminant
+                        it is a possibility that the virtualized machines are running in an empty room like televisions with no one watching
+                            this is a contemplation of why solipsism is invalid, or rather, why, a human is under the impression that it is an observer
+                                and what it is that he is observing
+
+
+                ie, imagine creating an entity in a video game 
+                    that has a virtualized computer in it
+                        that can come to valid boolean conclusions about its surroundings
+                            that can visualize,design,create a simulation
+                                but cannot execute it (execute meaning to a sufficient framerate to fool itself)
+                                    can only iterate it very slowly
+
+    the universe is a simulation
+        the following is not contemplated conclusively:
+            it is either
+                actively making quantum choice (by collapsing at every quantum event/edge)
+                executed an observation event at some point in space, subsequent to which superdeterminancy proceeds from this event
+                is executing all possible quantum choices
+            1 and 2 seem to imply that it may be a boolean entity, we assume that it is a simulation, 
+                if it is making a choice, it is effectively fooling itself into thinking it is its own reality
+                * making quantum choice
+                    it may be making a boolean choices concurrently to rendering and simulating
+
+if there is observation of the subjective experiences, we can propose some algorithms on how they are observed
+    regarding order:
+        * to reiterate, the subjective computation occurs independently of a potential observation, by nature of the fact that the computer is running (the brain is alive)
+
+        creation of the subjective experiences in space at this time occurs through reproduction (likely creation soon)
+
+            observation in the universe in terms of the quantity of executions, is potentially occuring in a situation like a Pool
+                if there is an Observers_cluster with the intent of observing concurrent subjective experiences (before they expire)
+                    the Observers_cluster allocates an observer and returns to the pool when the subjective experience ends
+                        Pool implementations vary, but you get the point
+                            if there aren't any available Observers it will spawn a new one
+                            if there are too many allocated available Observers, the availables can be culled
+                let us consider the following theological possible situations
+                    every subjective experience effectively becomes an Observers_cluster initialized with itself
+                        ie, every subjective experience views all other subjective experiences
+                    every subjective experience is added to the stack participating entities of the Observer_cluster or Observer, subsequent to its end
+                        ie, subsequent observations have the expired subjective entity watching them
+                            ie you will watch future subjective entities requesting observation from the Observers_cluster
+
+
+    an Observer is an object that is viewing a subjective experience
+        it can have a stack of participating entities, originating from the Observers_cluster for instance
+            ie in a theological sense, virtualized boolean entities
+
+
+realization
+    neural augmentation is potentially quite dangerous
+        if you can imagine a simulation and then execute it at a sufficient framerate you would fool yourself into thinking your universe is real
+            its quite possible that this is occuring recursively
+                in fact, the minimum to establish such a conciousness appears to be quite small
+                    ie, would an ai that can create a game engine lose itself in a dream world of its own making almost immediately?
+                    
+
+
+
